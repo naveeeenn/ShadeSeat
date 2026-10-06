@@ -21,7 +21,7 @@ Enter your start location, destination, departure time and trip duration. ShadeS
 Requires Python 3.8 or newer.
 
 ```bash
-git clone https://github.com/<your-username>/ShadeSeat.git
+git clone https://github.com/naveeeenn/ShadeSeat.git
 cd ShadeSeat
 python -m pip install -r requirements.txt
 ```
@@ -80,6 +80,6 @@ Released under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Author
 
-**[Your Name]**
-B.Tech [Branch], [College Name]
-[LinkedIn link] | [Email]
+**Naveen**
+B.Tech EE, NSUT
+linkedin.com/in/naveeeenn/ | naveen.ug25@nsut.ac.in
